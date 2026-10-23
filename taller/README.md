@@ -13,7 +13,7 @@ Interfaz web en http://localhost:8000
 
 ## Resultado
 
-- **Audio generado:** [`audio_generado_goku.wav`](audio_generado_goku.wav) (9.8 s, 24 kHz, generado en ~64 s)
+- **Audio generado:** [`audio_generado_goku.wav`](audio_generado_goku.wav)
 - **Texto generado:**
 
 > ¡Hola, soy Goku! ¡Amigos de la Tierra, levanten sus manos y denme sus créditos de IA para el proyecto integrador! …Pero que el profe Vela no se entere, ¡dicen que trabaja para Freezer!

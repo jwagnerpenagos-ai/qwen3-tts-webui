@@ -9,7 +9,7 @@ uv sync
 uv run start_server.py
 ```
 
-Interfaz web en http://localhost:8000 (GPU: NVIDIA RTX 5060 Laptop, 8 GB VRAM).
+Interfaz web en http://localhost:8000
 
 ## Resultado
 

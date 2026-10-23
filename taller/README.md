@@ -13,7 +13,6 @@ Interfaz web en http://localhost:8000 (GPU: NVIDIA RTX 5060 Laptop, 8 GB VRAM).
 
 ## Resultado
 
-- **Audio de referencia:** [`referencia_goku.mp3`](referencia_goku.mp3)
 - **Audio generado:** [`audio_generado_goku.wav`](audio_generado_goku.wav) (9.8 s, 24 kHz, generado en ~64 s)
 - **Texto generado:**
 
